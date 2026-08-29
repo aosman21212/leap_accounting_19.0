@@ -9,3 +9,7 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+Dockerfile.odoo
+docker-compose.yml
+config/
+leap_accounting_19.0.zip
