@@ -40,10 +40,10 @@
         * PDC (Post-Dated Cheque) management.
         * Customer follow-ups and recurring payments, odoo19 accounting, odoo19 assets, odoo19 pdc, odoo19 full accounting.
     """,
-    'author': 'Cybrosys Techno Solutions',
-    'company': 'Cybrosys Techno Solutions',
-    'maintainer': 'Cybrosys Techno Solutions',
-    'website': "https://www.cybrosys.com",
+    'author': 'LeapAI',
+    'company': 'LeapAI',
+    'maintainer': 'LeapAI',
+    'website': 'https://leapai.ai',
     'depends': ['account', 'sale', 'account_check_printing', 'analytic',
                 'leap_account_budget', 'contacts'],
     'data': [

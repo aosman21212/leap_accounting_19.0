@@ -3,7 +3,10 @@
 
 {
     'name': 'Leap Saudi Arabia - E-invoicing',
-    'author': 'Odoo S.A.',
+    'author': 'LeapAI',
+    'company': 'LeapAI',
+    'maintainer': 'LeapAI',
+    'website': 'https://leapai.ai',
     'countries': ['sa'],
     'version': '0.3',
     'depends': [
