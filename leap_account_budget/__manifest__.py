@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  Leap Budget Management
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 #############################################################################
 #
 #    Cybrosys Technologies Pvt. Ltd.
@@ -32,8 +43,9 @@
     than what he planned for this Budget. Each list of record can also be 
     switched to a graphical view of it, odoo17, accounting, odoo17 accounting, odoo17 budget, odoo17""",
     'author': 'LeapAI',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'company': 'LeapAI',
-    'maintainer': 'LeapAI',
     'website': 'https://leapai.ai',
     'depends': ['base', 'account'],
     'data': [
