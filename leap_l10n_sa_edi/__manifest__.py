@@ -1,11 +1,23 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  Leap Saudi Arabia - E-invoicing
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Leap Saudi Arabia - E-invoicing',
     'author': 'LeapAI',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'company': 'LeapAI',
-    'maintainer': 'LeapAI',
     'website': 'https://leapai.ai',
     'countries': ['sa'],
     'version': '0.3',
