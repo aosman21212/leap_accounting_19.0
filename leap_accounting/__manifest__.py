@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  Leap Accounting
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 {
     'name': 'Leap Accounting',
     'version': '19.0.1.2.0',
@@ -27,8 +38,9 @@ by LeapAI · Developed by leapai.ai · Support: abdzoro89@gmail.com
         'leap_account_budget',
     ],
     'author': 'LeapAI',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'company': 'LeapAI',
-    'maintainer': 'LeapAI',
     'website': 'https://leapai.ai',
     'license': 'LGPL-3',
     'images': ['static/description/banner.png'],
