@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+# =============================================================================
+#  Leap Accounting Kit
+# -----------------------------------------------------------------------------
+#  Location  : King Abdulaziz Branch Road, Riyadh, Saudi Arabia
+#  Email     : sales@leapai.ai
+#  Phone     : +966 53 553 3627
+#  Website   : https://leapai.ai
+#  Developer : Abdulkaraim Osman — Tech Manager | Backend Engineer | DevOps Engineer
+#              at Bab International Corp For Specialized Services
+#  LinkedIn  : https://www.linkedin.com/in/abdulkaraim-o-385b7a110/
+# =============================================================================
 #############################################################################
 #
 #    Cybrosys Technologies Pvt. Ltd.
@@ -41,8 +52,9 @@
         * Customer follow-ups and recurring payments, odoo19 accounting, odoo19 assets, odoo19 pdc, odoo19 full accounting.
     """,
     'author': 'LeapAI',
+    'maintainer': 'Abdulkaraim Osman',
+    'support': 'sales@leapai.ai',
     'company': 'LeapAI',
-    'maintainer': 'LeapAI',
     'website': 'https://leapai.ai',
     'depends': ['account', 'sale', 'account_check_printing', 'analytic',
                 'leap_account_budget', 'contacts'],
